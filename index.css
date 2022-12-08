@@ -1,0 +1,57 @@
+body{
+    background-color: lightyellow;
+}
+header{
+    background-color: cadetblue;
+    height:40px;
+    color:white;
+    text-align: center;
+    
+}
+.one{
+    background-color: cadetblue;
+    color:white;
+    text-align:left;
+    height:20px;
+
+}
+#section{
+    width:800px;
+}
+.side{
+    position: absolute;
+    top:390px;
+    left:850px;
+    width: 490px;
+}
+.side1{
+    position: absolute;
+    top:527px;
+    left:850px;
+    width: 490px; 
+}
+.photo{
+    width:133px;
+    height:171px;
+ border:1px solid black;
+ position: absolute;
+ top:80px;
+ left:1020px;
+}
+.sign{
+    border:1px solid black;
+    position: absolute;
+    top:260px;
+    left:1020px;
+    height:50px;
+    width:133px;
+    background-image: url(mahathi_sign.jpeg);
+    background-size:cover;
+    background-position-y: -20px;
+}
+.side2{
+    position: absolute;
+    top:950px;
+    left:850px;
+    width: 490px;
+}
